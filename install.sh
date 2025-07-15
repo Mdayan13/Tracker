@@ -13,13 +13,13 @@ mkdir ~/.tracker/bin
 ln -sf "$(pwd)/babe.js" ~/.tracker/bin/babe
 
 # Step 4: (Optional but safe) Ensure symlink is executable
-chmod +x ~/.local/bin/babe
+chmod +x ~/.tracker/bin/babe
 
 echo "✅ Installed! You can now run: babe gasPrice"
 
 # Ensure ~/.local/bin is in PATH
-if ! echo "$PATH" | grep -q "$HOME/.local/bin"; then
-  echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
+if ! echo "$PATH" | grep -q "$HOME/.tracker/bin"; then
+  echo 'export PATH="$HOME/.tracker/bin:$PATH"' >> ~/.bashrc
   source ~/.bashrc
-  echo "✅ Added ~/.local/bin to PATH"
+  echo "✅ Added ~/.tracker/bin to PATH"
 fi
