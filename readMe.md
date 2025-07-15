@@ -1,4 +1,4 @@
-#  =========== Installation & Usage ================
+#  ========= Installation & Usage ============
 ###  dude first allow the install.sh file to execute 
 ```
 chmod +x install.sh
@@ -12,21 +12,21 @@ bash ./install
 ```
 ALCHEMY_API_KEY=<Api_key>
 ```
-## IMP! your in your aclcheamy account every network must be allowed to send request either result into error
+### 📢📢important:  your in your aclcheamy account every network must be allowed to send request either result into error
 
-## message ✉️✉️
+### message ✉️✉️
 
 this project i created to be expand in future as i taught there can be need of somewhere in techo ecosystem like this from which we can get live data direcly in cli with very easy commands like ``babe --gasprice`` 😅😅
 
 
-#  ====== Future Expansion Ideas ===========
+#  ====== Future Expansion Ideas =========
 
 
-### - Add more networks (Fantom, Solana, etc.)
-### - Historical gas price charts
-### - Gas price alerts/notifications
-### - Transaction cost calculator for different operations
-### - Gas price predictions
-### - Support for different RPC providers
-### - Export data to CSV/JSON
-### - Web dashboard version
+ - Add more networks (Fantom, Solana, etc.)
+ - Historical gas price charts
+ - Gas price alerts/notifications
+ - Transaction cost calculator for different operations
+ - Gas price predictions
+ - Support for different RPC providers
+ - Export data to CSV/JSON
+ - Web dashboard version
