@@ -24,7 +24,7 @@ ALCHEMY_API_KEY=<Api_key>
 
 ### message ✉️✉️
 
-this project i created to be expand in future as i taught there can be need of somewhere in techo ecosystem like this from which we can get live data direcly in cli with very easy commands like ``babe --gasprice`` 😅😅
+this project i created to be expand in future as i taught there can be need of somewhere in techo ecosystem like this from which we can get live data direcly in cli with very easy commands like ``babe --gasprice``👊👊
 
 
 #  ====== Future Expansion Ideas =========
