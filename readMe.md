@@ -7,6 +7,10 @@ chmod +x install.sh
 ```
 bash ./install
 ```
+### now run :
+```
+babe gasPrice
+```
 ### star tWith Node
 ```
 node bin/babe.js
