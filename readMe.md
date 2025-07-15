@@ -11,7 +11,7 @@ bash ./install
 ```
 babe gasPrice
 ```
-### star tWith Node
+### start With Node ( optional )
 ```
 node bin/babe.js
 ```
