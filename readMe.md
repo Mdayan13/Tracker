@@ -7,6 +7,10 @@ chmod +x install.sh
 ```
 bash ./install
 ```
+### star tWith Node
+```
+node bin/babe.js
+```
 
 ### did you forget about API key create rename that .env.local and paste your API key 
 ```
