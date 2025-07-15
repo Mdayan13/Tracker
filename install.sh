@@ -9,6 +9,7 @@ npm install
 chmod +x babe.js
 
 # Step 3: Create or overwrite symlink in ~/.local/bin
+mkdir ~/.tracker
 mkdir ~/.tracker/bin
 ln -sf "$(pwd)/babe.js" ~/.tracker/bin/babe
 
