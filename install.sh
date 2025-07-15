@@ -11,7 +11,7 @@ chmod +x babe.js
 # Step 3: Create or overwrite symlink in ~/.local/bin
 mkdir ~/.tracker
 mkdir ~/.tracker/bin
-ln -sf "$(pwd)/babe.js" ~/.tracker/bin/babe
+ln -sf "$(pwd)/babe.js" ~/.tracker/bin/babe.js
 
 # Step 4: (Optional but safe) Ensure symlink is executable
 chmod +x ~/.tracker/bin/babe
