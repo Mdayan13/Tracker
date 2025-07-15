@@ -12,7 +12,7 @@ bash ./install
 ```
 ALCHEMY_API_KEY=<Api_key>
 ```
-### 📢📢important:  your in your aclcheamy account every network must be allowed to send request either result into error
+### 📢📢important: in your aclcheamy account every network must be allowed to send request other this will result into error
 
 ### message ✉️✉️
 
